@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi there, I'm Namrata Gaikwad 👋
+
+## 👀 I'm interested in:
+- Web Development
+
+## 🌱 I'm currently learning:
+- MERN Stack Development (MongoDB, Express, React, Node.js)
+
+## 📫 How to reach me:
+- Email: [namratagaikwad8977@gmail.com](mailto:namratagaikwad8977@gmail.com)
+
 
 ###
 
