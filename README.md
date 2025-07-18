@@ -109,10 +109,10 @@ const namrata = {
 </div>
 
 ---
-
+<!-- 
 ## 🚀 Featured Projects
 
-<!-- <div align="center">
+<div align="center">
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|--------|
@@ -121,7 +121,7 @@ const namrata = {
 | **🎤 Multilingual Voice Assistant** | Voice-controlled assistant supporting multiple languages with speech recognition | Python, Speech Recognition, TTS, ML | [Demo](https://github.com/NamrataGaikwad25/voice-assistant) • [Code](https://github.com/NamrataGaikwad25/voice-assistant) |
 | **⚡ Smart Electricity Bill Calculator** | Automated billing system with usage analytics and payment integration | Spring Boot, MySQL, Thymeleaf, Chart.js | [Demo](https://github.com/NamrataGaikwad25/electricity-bill) • [Code](https://github.com/NamrataGaikwad25/electricity-bill) |
 
-</div> -->
+</div>
 
 ---
 
@@ -168,6 +168,7 @@ const namrata = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
+ -->
 
 ---
 
