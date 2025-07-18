@@ -4,7 +4,7 @@
 ---
 
 ## 🌸 About Me  
-I am a **Computer Engineering student** with a strong foundation in **Web Development, DSA, and Software Engineering principles**. I am passionate about solving real-world problems through innovative technology. I’m currently exploring **AI/ML** and **DevOps** while continuously improving my skills through practical projects and collaboration.
+I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong foundation in **Web Development, Data Structures & Algorithms, and Software Engineering principles**. I am passionate about solving real-world problems through technology and building impactful solutions. I am currently exploring **AI/ML** and **DevOps** while continuously improving my skills through practical projects and collaborations.
 
 > **⚡ Motto:** _“Keep building, keep learning, keep growing.”_
 
@@ -24,21 +24,21 @@ I am a **Computer Engineering student** with a strong foundation in **Web Develo
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Learning  
 🌟 **DevOps** (CI/CD, Docker)  
 🌟 **AI/ML** Basics  
 🌟 Advanced **Web Development** (React Ecosystem)
 
 ---
 
-## 👩‍💼 What I'm Looking For  
+## 👩‍💼 What Namrata Gaikwad is Looking For  
 - 🌍 Internship opportunities in **Web Development**, **Software Engineering**, or **AI/ML**.  
-- 🤝 Collaborative environments where I can contribute and grow.  
-- 🔧 Projects focused on innovation, tech-for-good, and real-world problem-solving.
+- 🤝 Collaborative environments where Namrata Gaikwad can contribute and grow.  
+- 🔧 Projects focused on innovation, tech-for-good, and solving real-world problems.
 
 ---
 
-## 💌 How to Reach Me
+## 💌 How to Reach Namrata Gaikwad  
 📧 **Email:** namratagaikwad456@gmail.com  
 🏙️ **Location:** Pune, India  
 💼 **LinkedIn:** [Namrata Gaikwad](https://www.linkedin.com/in/namratagaikwad/)  
@@ -46,14 +46,14 @@ I am a **Computer Engineering student** with a strong foundation in **Web Develo
 
 ---
 
-## 💡 Fun Facts  
+## 💡 Fun Facts about Namrata Gaikwad  
 ✨ I refresh `localhost` like it's a ritual.  
 ✨ I enjoy learning new tech through building side projects.  
 ✨ My to-do list almost always contains the words: "Refactor later."  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats for Namrata Gaikwad  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurikshirsagar456&show_icons=true&theme=tokyonight" width="410">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikshirsagar456&layout=compact&theme=tokyonight" width="340">
@@ -61,9 +61,9 @@ I am a **Computer Engineering student** with a strong foundation in **Web Develo
 
 ---
 
-## 🔥 Let's Build Something Cool Together!  
+## 🔥 Let's Build Something Cool Together with Namrata Gaikwad!  
 > 💬 _“Technology is best when it brings people together.”_
 
 ---
 
-### 🎉 Thank you for visiting my GitHub profile! 🚀
+### 🎉 Thank you for visiting **Namrata Gaikwad**'s GitHub profile! 🚀
