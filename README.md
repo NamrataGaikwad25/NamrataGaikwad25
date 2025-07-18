@@ -4,7 +4,7 @@
 ---
 
 ## 🌸 About Me  
-I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong foundation in **Web Development, Data Structures & Algorithms, and Software Engineering principles**. I am passionate about solving real-world problems through technology and building impactful solutions. I am currently exploring **AI/ML** and **DevOps** while continuously improving my skills through practical projects and collaborations.
+I am **Namrata Gaikwad**, a **Computer Engineering student** Motivated and detail-oriented Computer Science student with a strong interest in creating user-focused and efficient software applications. Experienced in developing dynamic interfaces and working on real-world projects that enhance both functionality and user experience. Quick to learn new technologies and tools, with a commitment to continuous improvement and practical problem-solving. Eager to contribute to innovative projects in a collaborative and challenging environment.
 
 > **⚡ Motto:** _“Keep building, keep learning, keep growing.”_
 
@@ -27,7 +27,6 @@ I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong found
 ## 📚 Currently Learning  
 🌟 **DevOps** (CI/CD, Docker)  
 🌟 **AI/ML** Basics  
-🌟 Advanced **Web Development** (React Ecosystem)
 
 ---
 
@@ -39,26 +38,9 @@ I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong found
 ---
 
 ## 💌 How to Reach Namrata Gaikwad  
-📧 **Email:** namratagaikwad456@gmail.com  
+📧 **Email:** namratagaikwad8977@gmail.com  
 🏙️ **Location:** Pune, India  
-💼 **LinkedIn:** [Namrata Gaikwad](https://www.linkedin.com/in/namratagaikwad/)  
-🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
-## 💡 Fun Facts about Namrata Gaikwad  
-✨ I refresh `localhost` like it's a ritual.  
-✨ I enjoy learning new tech through building side projects.  
-✨ My to-do list almost always contains the words: "Refactor later."  
-
----
+💼 **LinkedIn:** [Namrata Gaikwad](https://www.linkedin.com/in/namrata-gaikwad-5039152a1/ )  
 
 
 ---
-
-## 🔥 Let's Build Something Cool Together with Namrata Gaikwad!  
-> 💬 _“Technology is best when it brings people together.”_
-
----
-
-### 🎉 Thank you for visiting **Namrata Gaikwad**'s GitHub profile! 🚀
