@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Namrata Gaikwad** (she/her)
+# 👋 Hi, I'm **Namrata Gaikwad** 
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9DF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Software+Engineer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%A1" alt="Typing SVG" />
