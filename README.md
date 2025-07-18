@@ -1,12 +1,28 @@
-# 👋 Hi there! I'm **Namrata Gaikwad** (she/her) 👩‍💻  
-### 🚀 Aspiring Full-Stack Developer | 💡 Tech Enthusiast | 🎯 Problem Solver  
+<h1 align="center">👋 Hi there, I'm <span style="color:#9df;">Namrata Gaikwad</span> (she/her) 👩‍💻</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | 💡 Tech Enthusiast | 🎯 Problem Solver</h3>
 
 ---
 
 ## 🌸 About Me  
-I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong foundation in **Web Development, and Software Engineering principles**. I am passionate about solving real-world problems through technology and building impactful solutions. I am currently exploring **AI/ML** and **DevOps** while continuously improving my skills through practical projects and collaborations.
+I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong foundation in **Web Development, Data Structures & Algorithms, and Software Engineering principles**. I am passionate about solving real-world problems through technology and building impactful solutions. I am currently exploring **AI/ML** and **DevOps** while continuously improving my skills through practical projects and collaborations.
 
-> **⚡ Motto:** _“Keep building, keep learning, keep growing.”_
+> ⚡ _“Keep building, keep learning, keep growing.”_
+> 
+## 👩‍💼 What Namrata Gaikwad is Looking For  
+- 🌍 Internship opportunities in **Web Development**, **Software Engineering**, or **AI/ML**  
+- 🤝 Collaborative environments where I can contribute and grow  
+- 🔧 Projects focused on innovation, tech-for-good, and solving real-world problems
+
+  ## 📚 Currently Learning  
+- **DevOps** (CI/CD, Docker)  
+- **AI/ML** Basics  
+- Advanced **Web Development** (React Ecosystem)
+
+  ## 💌 How to Reach Namrata Gaikwad  
+📧 **Email:** namratagaikwad456@gmail.com  
+🏙️ **Location:** Pune, India  
+💼 **LinkedIn:** [Namrata Gaikwad](https://www.linkedin.com/in/namratagaikwad/)  
+
 
 ---
 
@@ -25,34 +41,23 @@ I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong found
 ---
 
 ## 📚 Currently Learning  
-🌟 **DevOps** (CI/CD, Docker)  
-🌟 **AI/ML**   
-
-
----
-
-## 👩‍💼 I'm is Looking For  
-- 🌍 Internship opportunities in **Web Development**, **Software Engineering**, or **AI/ML**.  
-- 🤝 Collaborative environments where Namrata Gaikwad can contribute and grow.  
-- 🔧 Projects focused on innovation, tech-for-good, and solving real-world problems.
+- **DevOps** (CI/CD, Docker)  
+- **AI/ML** Basics  
+- Advanced **Web Development** (React Ecosystem)
 
 ---
 
-## 💌 How to Reach Namrata Gaikwad  
-📧 **Email:** namratagaikwad456@gmail.com  
-🏙️ **Location:** Pune, India  
-💼 **LinkedIn:** [Namrata Gaikwad](https://www.linkedin.com/in/namratagaikwad/)  
+---
+
+ 
 
 ---
 
-
----
-
-## 📊 GitHub Stats for Namrata Gaikwad  
+<h2 align="center">📊 GitHub Stats for Namrata Gaikwad</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NamrataGaikwad25&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamrataGaikwad25&layout=compact&theme=tokyonight" width="330" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NamrataGaikwad25&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamrataGaikwad25&layout=compact&theme=tokyonight" width="330"/>
 </p>
 
 <p align="center">
@@ -65,3 +70,27 @@ I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong found
 
 ---
 
+<h2 align="center">🏆 Contributions & Activity</h2>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=NamrataGaikwad25&limit=5&theme=tokyonight"/>
+</p>
+
+---
+
+## 📂 Pinned Repositories  
+Here are some repositories worth exploring:  
+
+🔹 [Clinic Management Web App](https://github.com/NamrataGaikwad25/clinic-management)  
+🔹 [AI-Powered Chatbot (React + OpenAI API)](https://github.com/NamrataGaikwad25/chatbot-app)  
+🔹 [Voice Assistant (Multilingual)](https://github.com/NamrataGaikwad25/voice-assistant)  
+🔹 [Electricity Bill Calculator (Spring Boot)](https://github.com/NamrataGaikwad25/electricity-bill)  
+
+---
+
+<h2 align="center">🚀 Let's Build Something Cool Together with Namrata Gaikwad!</h2>
+<p align="center"><em>“Technology is best when it brings people together.”</em></p>
+
+---
+
+<h3 align="center">🎉 Thank you for visiting Namrata Gaikwad's GitHub profile! 🚀</h3>
