@@ -33,9 +33,7 @@ const namrata = {
 - **Challenging projects** that solve real-world problems
 
 ### 📚 Currently Learning
-- **Advanced React** (Next.js, Redux Toolkit, React Query)
 - **DevOps & Cloud** (Docker, Kubernetes, AWS)
-- **AI/ML** (TensorFlow, PyTorch, NLP)
 - **Mobile Development** (React Native, Flutter)
 
 ---
