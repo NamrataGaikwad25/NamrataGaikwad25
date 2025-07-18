@@ -26,8 +26,8 @@ I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong found
 
 ## 📚 Currently Learning  
 🌟 **DevOps** (CI/CD, Docker)  
-🌟 **AI/ML** Basics  
-🌟 Advanced **Web Development** (React Ecosystem)
+🌟 **AI/ML**   
+
 
 ---
 
