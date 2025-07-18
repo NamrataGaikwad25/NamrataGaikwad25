@@ -1,10 +1,10 @@
-# ✨ Hey there! I'm **Namrata Gaikwad** 👩‍💻  
-### 🚀 Passionate Web Developer | 💡 Tech Enthusiast | 🎯 Lifelong Learner  
+# 👋 Hi there! I'm **Namrata Gaikwad** (she/her) 👩‍💻  
+### 🚀 Aspiring Full-Stack Developer | 💡 Tech Enthusiast | 🎯 Problem Solver  
 
 ---
 
 ## 🌸 About Me  
-I am a **Computer Engineering student** with a strong foundation in **Web Development, DSA, and Software Engineering principles**. I enjoy solving problems through code and am always exploring ways to build solutions that create real-world impact. I'm currently expanding my expertise in **AI/ML and DevOps** while sharpening my technical skills through projects and collaboration.
+I am a **Computer Engineering student** with a strong foundation in **Web Development, DSA, and Software Engineering principles**. I am passionate about solving real-world problems through innovative technology. I’m currently exploring **AI/ML** and **DevOps** while continuously improving my skills through practical projects and collaboration.
 
 > **⚡ Motto:** _“Keep building, keep learning, keep growing.”_
 
@@ -27,7 +27,7 @@ I am a **Computer Engineering student** with a strong foundation in **Web Develo
 ## 📚 Currently Learning
 🌟 **DevOps** (CI/CD, Docker)  
 🌟 **AI/ML** Basics  
-🌟 Advanced **Web Development**
+🌟 Advanced **Web Development** (React Ecosystem)
 
 ---
 
@@ -40,13 +40,24 @@ I am a **Computer Engineering student** with a strong foundation in **Web Develo
 
 ## 💌 How to Reach Me
 📧 **Email:** namratagaikwad456@gmail.com  
+🏙️ **Location:** Pune, India  
 💼 **LinkedIn:** [Namrata Gaikwad](https://www.linkedin.com/in/namratagaikwad/)  
 🌐 **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
 
 ---
 
+## 💡 Fun Facts  
+✨ I refresh `localhost` like it's a ritual.  
+✨ I enjoy learning new tech through building side projects.  
+✨ My to-do list almost always contains the words: "Refactor later."  
+
 ---
 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaurikshirsagar456&show_icons=true&theme=tokyonight" width="410">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikshirsagar456&layout=compact&theme=tokyonight" width="340">
+</p>
 
 ---
 
