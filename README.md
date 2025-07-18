@@ -203,5 +203,5 @@ I'm always excited to connect with fellow developers, contribute to meaningful p
 
 <div align="center">
   <h3>⭐ Star my repositories if you find them useful!</h3>
-  <p><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
+ 
 </div>
