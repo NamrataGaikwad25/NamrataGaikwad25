@@ -27,7 +27,7 @@ I am a **Computer Engineering student** with a strong foundation in **Web Develo
 ## 📚 Currently Learning
 🌟 **DevOps** (CI/CD, Docker)  
 🌟 **AI/ML** Basics  
-🌟 Advanced **Web Development** (React Ecosystem)
+🌟 Advanced **Web Development**
 
 ---
 
@@ -45,18 +45,8 @@ I am a **Computer Engineering student** with a strong foundation in **Web Develo
 
 ---
 
-## 💡 Fun Facts  
-✨ I refresh `localhost` like it's a ritual.  
-✨ I enjoy learning new tech through building side projects.  
-✨ My to-do list almost always contains the words: "Refactor later."  
-
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namratagaikwad456&show_icons=true&theme=tokyonight" width="410">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namratagaikwad456&layout=compact&theme=tokyonight" width="340">
-</p>
 
 ---
 
