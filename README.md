@@ -36,7 +36,6 @@ const namrata = {
 - **Advanced React** (Next.js, Redux Toolkit, React Query)
 - **DevOps & Cloud** (Docker, Kubernetes, AWS)
 - **AI/ML** (TensorFlow, PyTorch, NLP)
-- **System Design** & **Microservices Architecture**
 - **Mobile Development** (React Native, Flutter)
 
 ---
@@ -113,7 +112,7 @@ const namrata = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<!-- <div align="center">
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|--------|
@@ -122,7 +121,7 @@ const namrata = {
 | **🎤 Multilingual Voice Assistant** | Voice-controlled assistant supporting multiple languages with speech recognition | Python, Speech Recognition, TTS, ML | [Demo](https://github.com/NamrataGaikwad25/voice-assistant) • [Code](https://github.com/NamrataGaikwad25/voice-assistant) |
 | **⚡ Smart Electricity Bill Calculator** | Automated billing system with usage analytics and payment integration | Spring Boot, MySQL, Thymeleaf, Chart.js | [Demo](https://github.com/NamrataGaikwad25/electricity-bill) • [Code](https://github.com/NamrataGaikwad25/electricity-bill) |
 
-</div>
+</div> -->
 
 ---
 
