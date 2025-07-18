@@ -53,11 +53,6 @@ I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong found
 
 ---
 
-## 📊 GitHub Stats for Namrata Gaikwad  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurikshirsagar456&show_icons=true&theme=tokyonight" width="410">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurikshirsagar456&layout=compact&theme=tokyonight" width="340">
-</p>
 
 ---
 
