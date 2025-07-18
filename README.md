@@ -4,7 +4,7 @@
 ---
 
 ## 🌸 About Me  
-I am **Namrata Gaikwad**, a **Computer Engineering student** Motivated and detail-oriented Computer Science student with a strong interest in creating user-focused and efficient software applications. Experienced in developing dynamic interfaces and working on real-world projects that enhance both functionality and user experience. Quick to learn new technologies and tools, with a commitment to continuous improvement and practical problem-solving. Eager to contribute to innovative projects in a collaborative and challenging environment.
+I am **Namrata Gaikwad**, a **Computer Engineering student** with a strong foundation in **Web Development, and Software Engineering principles**. I am passionate about solving real-world problems through technology and building impactful solutions. I am currently exploring **AI/ML** and **DevOps** while continuously improving my skills through practical projects and collaborations.
 
 > **⚡ Motto:** _“Keep building, keep learning, keep growing.”_
 
@@ -27,10 +27,11 @@ I am **Namrata Gaikwad**, a **Computer Engineering student** Motivated and detai
 ## 📚 Currently Learning  
 🌟 **DevOps** (CI/CD, Docker)  
 🌟 **AI/ML** Basics  
+🌟 Advanced **Web Development** (React Ecosystem)
 
 ---
 
-## 👩‍💼 What Namrata Gaikwad is Looking For  
+## 👩‍💼 I'm is Looking For  
 - 🌍 Internship opportunities in **Web Development**, **Software Engineering**, or **AI/ML**.  
 - 🤝 Collaborative environments where Namrata Gaikwad can contribute and grow.  
 - 🔧 Projects focused on innovation, tech-for-good, and solving real-world problems.
@@ -38,9 +39,29 @@ I am **Namrata Gaikwad**, a **Computer Engineering student** Motivated and detai
 ---
 
 ## 💌 How to Reach Namrata Gaikwad  
-📧 **Email:** namratagaikwad8977@gmail.com  
+📧 **Email:** namratagaikwad456@gmail.com  
 🏙️ **Location:** Pune, India  
-💼 **LinkedIn:** [Namrata Gaikwad](https://www.linkedin.com/in/namrata-gaikwad-5039152a1/ )  
+💼 **LinkedIn:** [Namrata Gaikwad](https://www.linkedin.com/in/namratagaikwad/)  
+
+---
 
 
 ---
+
+## 📊 GitHub Stats for Namrata Gaikwad  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NamrataGaikwad25&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamrataGaikwad25&layout=compact&theme=tokyonight" width="330" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NamrataGaikwad25&theme=tokyonight" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NamrataGaikwad25&theme=tokyonight&no-frame=true&row=1" width="500"/>
+</p>
+
+---
+
